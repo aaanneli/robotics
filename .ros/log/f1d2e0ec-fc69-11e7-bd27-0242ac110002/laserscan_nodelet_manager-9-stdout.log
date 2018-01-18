@@ -1,0 +1,3 @@
+[0m[ INFO] [1516291762.695525963]: Initializing nodelet with 8 worker threads.[0m
+[33m[ WARN] [1516295210.136390062, 3394.980000000]: Shutdown request received.[0m
+[33m[ WARN] [1516295210.136413483, 3394.980000000]: Reason given for shutdown: [new node registered with same name][0m

@@ -1,0 +1,5 @@
+[0m[ INFO] [1516291762.574535578]: Initializing nodelet with 8 worker threads.[0m
+[0m[ INFO] [1516291762.651038147]: CmdVelMux : (re)configured[0m
+[0m[ INFO] [1516291762.699411341]: Bumper/cliff pointcloud configured at distance 0.240000 and height 0.040000 from base frame[0m
+[33m[ WARN] [1516295209.894176836, 3394.740000000]: Shutdown request received.[0m
+[33m[ WARN] [1516295209.894210847, 3394.740000000]: Reason given for shutdown: [new node registered with same name][0m

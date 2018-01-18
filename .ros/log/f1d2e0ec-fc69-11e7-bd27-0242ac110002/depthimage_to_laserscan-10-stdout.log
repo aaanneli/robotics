@@ -1,0 +1,5 @@
+[0m[ INFO] [1516291762.696652383]: Loading nodelet /depthimage_to_laserscan of type depthimage_to_laserscan/DepthImageToLaserScanNodelet to manager laserscan_nodelet_manager with the following remappings:[0m
+[0m[ INFO] [1516291762.696700872]: /image -> /camera/depth/image_raw[0m
+[0m[ INFO] [1516291762.696713781]: /scan -> /scan[0m
+[33m[ WARN] [1516295210.134884664, 3394.980000000]: Shutdown request received. Reason: [new node registered with same name][0m
+[0m[ INFO] [1516295210.176264504, 3395.020000000]: Unloading nodelet /depthimage_to_laserscan from manager laserscan_nodelet_manager[0m

@@ -1,0 +1,3 @@
+[0m[ INFO] [1516295209.920601725]: Loading nodelet /cmd_vel_mux of type yocs_cmd_vel_mux/CmdVelMuxNodelet to manager mobile_base_nodelet_manager with the following remappings:[0m
+[0m[ INFO] [1516295209.920652480]: /cmd_vel_mux/output -> /mobile_base/commands/velocity[0m
+[0m[ INFO] [1516295220.228456031, 3405.040000000]: Bond broken, exiting[0m

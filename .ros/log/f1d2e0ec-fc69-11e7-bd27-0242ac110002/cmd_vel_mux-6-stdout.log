@@ -1,0 +1,4 @@
+[0m[ INFO] [1516291762.580983143]: Loading nodelet /cmd_vel_mux of type yocs_cmd_vel_mux/CmdVelMuxNodelet to manager mobile_base_nodelet_manager with the following remappings:[0m
+[0m[ INFO] [1516291762.581031625]: /cmd_vel_mux/output -> /mobile_base/commands/velocity[0m
+[33m[ WARN] [1516295209.896454310, 3394.740000000]: Shutdown request received. Reason: [new node registered with same name][0m
+[0m[ INFO] [1516295209.979384347, 3394.830000000]: Unloading nodelet /cmd_vel_mux from manager mobile_base_nodelet_manager[0m
